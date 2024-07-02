@@ -17,4 +17,3 @@ parts:
   - caption: Acknowledgements
     chapters:
       - file: docs/team
-      
