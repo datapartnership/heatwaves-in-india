@@ -8,4 +8,3 @@ The Data Lab would like to express our sincere gratutude and appreciation for th
 | [Yim Chew Kloe](mailto:yng@worldbank.org) | Data Scientist                        | DECCS, World Bank, Washington DC |
 | [Sahiti Sarva](mailto:ssarva@worldbank.org)                | Data Scientist       | Data Lab, DECDG, World Bank, Washington DC |
 | Shashank Jayakumar | Climate Change Consultant | URS, World Bank, India |
-
